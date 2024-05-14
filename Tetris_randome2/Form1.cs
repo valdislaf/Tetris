@@ -82,10 +82,7 @@ namespace Tetris_randome2
         public int speed_moveX = 22;
         public Tetromino[] Figrnd_out;
         public int Score = 0;
-        // 578; 780
-        // 594; 819
-        // 16   39
-        //676; 1029
+       
         public MyControl(int width_, int height_)
         {
             width = width_;
